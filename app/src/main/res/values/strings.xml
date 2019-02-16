@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">week01_lx</string>
+    <string name="title_activity_base">BaseActivity</string>
+</resources>
